@@ -1,2 +1,3 @@
 selam arkadaşlar bugün sizlerle github öğreniyoruz
+dosya üzerinden bazı değişiklikler sağlamış bulundum
 
